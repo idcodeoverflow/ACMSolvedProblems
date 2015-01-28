@@ -1,3 +1,6 @@
+/*
+AUTHOR: DAVID ISRAEL GARCIA ALCAZAR
+*/
 #include <stdio.h>
 #define ROOT 708
 

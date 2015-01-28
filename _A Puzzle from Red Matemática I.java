@@ -1,3 +1,6 @@
+/*
+AUTHOR: DAVID ISRAEL GARCIA ALCAZAR
+*/
 import java.util.*;
 import java.io.*;
 import java.math.BigInteger;

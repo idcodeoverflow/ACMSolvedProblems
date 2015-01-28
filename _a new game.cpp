@@ -1,3 +1,6 @@
+/*
+AUTHOR: DAVID ISRAEL GARCIA ALCAZAR
+*/
 #include <iostream>
 using namespace std;
 inline int biankaGame(int *v)
