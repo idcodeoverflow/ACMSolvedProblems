@@ -1,4 +1,0 @@
-Bo Yang; Jing Huang; Dayou Liu; Jiming Liu, "A Multi-Agent Based Decentralized Algorithm for Social Network Community Mining," Social Network Analysis and Mining, 2009. ASONAM '09. International Conference on Advances in , vol., no., pp.78,82, 20-22 July 2009
-doi: 10.1109/ASONAM.2009.23
-keywords: {data mining;multi-agent systems;social networking (online);Web clustering engine;autonomous agents;distributed network;gene network analysis;multiagent based decentralized algorithm;self-aggregation mechanism;self-organization mechanism;social interaction;social network analysis;social network community mining;community mining;decentralized algorithm;multi-agent system;social network},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5231930&isnumber=5231772
