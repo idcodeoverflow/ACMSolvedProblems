@@ -1,0 +1,4 @@
+Romsaiyud, W.; Premchaiswadi, W., "Applying mining fuzzy sequential patterns technique to predict the leadership in social networks," ICT and Knowledge Engineering (ICT & Knowledge Engineering), 2011 9th International Conference on , vol., no., pp.134,137, 12-13 Jan. 2012
+doi: 10.1109/ICTKE.2012.6152393
+keywords: {Internet;data mining;fuzzy set theory;social networking (online);Internet;association rule;communication tool;fuzzy data-mining;fuzzy sequential pattern;influential behavior pattern;leadership;social group;social network;structural relations;Dairy products;Data mining;Facebook;Humans;Itemsets;Fuzzy Sequential Patterns;Group Behavior Patterns;Social Network Analysis},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6152393&isnumber=6152386
